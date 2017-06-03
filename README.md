@@ -27,12 +27,12 @@ This is used to assess a student's level of digital literacy and gain a baseline
 - [x ] Navigate to the computer's downloads folders - 5 pts
 
 **Basic Internet Operation - 44 pts total (0 - 29 pts Support Needed)**
-- [ ] Launch Google Chrome - 10 pts
-- [ ] Identify the address bar in Google Chrome - 10 pts
-- [ ] Navigate to a website selected by the instructor - 10 pts
-- [ ] Open a new tab in Google Chrome - 5 pts
-- [ ] Use Google to search for an image - 5 pts
-- [ ] Scroll down to the bottom of the search results page - 2 pts
+- [ x] Launch Google Chrome - 10 pts
+- [x ] Identify the address bar in Google Chrome - 10 pts
+- [x ] Navigate to a website selected by the instructor - 10 pts
+- [ x] Open a new tab in Google Chrome - 5 pts
+- [ x] Use Google to search for an image - 5 pts
+- [x ] Scroll down to the bottom of the search results page - 2 pts
 - [ ] Select and download an image - 2 pts
 
 70 - 109: Level 1 Ready
